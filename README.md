@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqY2FyaGU2bjN6d3JxOXFpaGhqZGNiOW0wNHdoNWU4ZDBiazE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
+
 <!--
 **huy310304/huy310304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
