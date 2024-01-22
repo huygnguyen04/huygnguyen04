@@ -10,6 +10,12 @@
 
 # Huy Nguyen 👨‍💻
 
+## Hi there 👋, 
+
+### I'm Huy Nguyen, A passionate and dedicated student at the University of Virginia, majoring in Computer Science and minoring in Applied Mathematics. 
+-------
+
+abc 
 
 <!--
 **huy310304/huy310304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
