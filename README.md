@@ -30,6 +30,8 @@
 - 😴 Fun fact: I can sleep up to 16 hours on weekends and stay up until 7 AM with classes starting at 9 AM.
 
 
+![image](https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77)
+<img src="https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77" width="500" height="600">
 
 
 <!--
