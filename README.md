@@ -26,7 +26,7 @@
 - 💻 I am also collaborating on projects with professors such as GPUMD and MATLAB GUI at the UVA School of Engineering. 
 - 🌱 I enjoy taking online courses about GPU, AI, Website Development, and Programming Languages on LinkedIn and Coursera. 
 - 👨‍🏫 I love teaching and tutoring, especially being a TA for Applied Math courses at UVA. 
-- ⚡ In my free time, I love reading manga and playing mobile games 📱.
+- ⚡ I love reading manga and playing mobile games in my free time.
 - 😴 Fun fact: I can sleep up to 16 hours on weekends and stay up until 7 AM with classes starting at 9 AM.
 
 
