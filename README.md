@@ -12,7 +12,7 @@
 
 ## Hi there 👋, 
 
-### I'm Huy Nguyen. I'm a second-year student at the University of Virginia, majoring in Computer Science and minoring in Applied Mathematics. 
+### I'm Huy Nguyen, a second-year student at the University of Virginia, majoring in Computer Science and minoring in Applied Mathematics. 
 -------
 ## 🧐 About Me: 
 - 🔭 I’m currently working on ...
