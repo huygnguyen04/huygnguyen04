@@ -31,7 +31,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77" width="500">
+  <img src="https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77" width="750">
 </div>
 
 
