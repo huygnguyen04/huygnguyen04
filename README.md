@@ -8,7 +8,7 @@
   </a>
 </div>
 
-# <p style="text-align: center;">Huy Nguyen 👨‍💻</p>
+<p style="text-align: center;">Huy Nguyen 👨‍💻</p>
 
 ## Hi there 👋, 
 
