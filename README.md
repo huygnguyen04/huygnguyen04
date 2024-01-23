@@ -11,8 +11,6 @@
   </a>
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
-
 ## Hi there 👋, 
 
 ### I'm Huy Nguyen, a second-year student at the University of Virginia, majoring in Computer Science and minoring in Applied Mathematics. 
