@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/huynguyen04/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Outlook-red?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
+  <a href = "mailto:mpc5ya@virginia.edu">
+    <img src="https://img.shields.io/badge/Outlook-red?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
