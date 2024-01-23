@@ -8,8 +8,6 @@
   </a>
 </div>
 
-<h3 style="text-align: center;">Huy Nguyen</h3>
-
 ## Hi there 👋, 
 
 ### I'm Huy Nguyen, a second-year student at the University of Virginia, majoring in Computer Science and minoring in Applied Mathematics. 
