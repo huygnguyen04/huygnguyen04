@@ -5,8 +5,8 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/huynguyen04/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Outlook Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook Badge"/>
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
