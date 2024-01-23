@@ -28,9 +28,9 @@
 - 👨‍🏫 I love teaching and tutoring, especially being a TA for Applied Math courses at UVA. 
 - ⚡ I love reading manga and playing mobile games in my free time.
 - 😴 Fun fact: I can sleep up to 16 hours on weekends and stay up until 7 AM with classes starting at 9 AM.
-  
-<div id="header" margin-left=100px>
-  <img src="https://github.com/huy310304/huy310304/assets/114793725/68ad1f23-6e5e-473a-a740-3ce1481108a5" width="900">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif" width="500">
 </div>
 
 
