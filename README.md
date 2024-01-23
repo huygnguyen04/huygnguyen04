@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
+[![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
 
 ## Hi there 👋, 
 
