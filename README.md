@@ -8,7 +8,7 @@
   </a>
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mpc5ya@virginia.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpc5ya@virginia.edu)](mailto:mpc5ya@virginia.edu)
 
 ## Hi there 👋, 
 
