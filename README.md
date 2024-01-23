@@ -22,14 +22,17 @@
 ## 😮 About Me: 
 - 🌏 I am originally from Ho Chi Minh City, Vietnam, and moved to the U.S. to pursue my studies as an international student.
 - 🎒 I'm majoring in Computer Science with a minor in Applied Mathematics.
-- 🔭 Currently, I am involved in on GPU and Computer Architecture research at the Insight Computer Architecture Lab.
+- 🔭 Currently, I am involved in GPU and Computer Architecture research at the Insight Computer Architecture Lab.
 - 💻 I am also collaborating on projects with professors such as GPUMD and MATLAB GUI at the UVA School of Engineering. 
 - 🌱 I enjoy taking online courses about GPU, AI, Website Development, and Programming Languages on LinkedIn and Coursera. 
 - 👨‍🏫 I love teaching and tutoring, especially being a TA for Applied Math courses at UVA. 
 - ⚡ I love reading manga and playing mobile games in my free time.
 - 😴 Fun fact: I can sleep up to 16 hours on weekends and stay up until 7 AM with classes starting at 9 AM.
 
-<img src="https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77" width="600" align="center">
+
+<div id="header" align="center">
+  <img src="https://github.com/huy310304/huy310304/assets/114793725/8c318034-e1f1-4194-be73-416ab4793b77" width="500">
+</div>
 
 
 <!--
