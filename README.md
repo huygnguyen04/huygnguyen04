@@ -33,7 +33,7 @@
 - 😴 Fun fact: I can sleep up to 16 hours on weekends and stay up until 7 AM with classes starting at 9 AM.
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif" width="300">
 </div>
 
 
