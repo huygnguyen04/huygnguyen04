@@ -23,7 +23,7 @@
 - 🎒 I am majoring in Computer Science with a minor in Applied Mathematics.
 - 🔭 Currently, I am involved in GPU and Computer Architecture research at the Insight Computer Architecture Lab.
 - 💻 I am also collaborating on projects with professors such as GPUMD and MATLAB GUI at the UVA School of Engineering. 
-- 🌱 I enjoy taking online courses about Computer Science topics on LinkedIn and Coursera. 
+- 🌱 I enjoy taking online courses about Computer Science topics on LinkedIn Learning and Coursera. 
 - 👨‍🏫 I love STEM teaching and tutoring, especially being a TA for Applied Math courses at UVA.
 -------
 
