@@ -38,6 +38,17 @@
   <img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif" width="300">
 </div>
 
+<!-- Two-Color Progress Bar -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="70%" bgcolor="#4CAF50" style="color: white; text-align: center;">70%</td>
+    <td width="30%" bgcolor="#ddd"></td>
+  </tr>
+</table>
+
+
+
+
 
 
 
