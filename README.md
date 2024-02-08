@@ -17,6 +17,8 @@
 ## Hi there 👋, 
 
 ### I'm Huy Nguyen, a second-year student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science 👨‍💻. 
+
+### [Check out my portfolio website here!](https://huy310304.github.io/)
 -------
 
 ## 📝 Academics: 
