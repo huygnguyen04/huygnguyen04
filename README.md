@@ -16,7 +16,7 @@
 
 ## Hi there 👋, 
 
-### I'm Huy Nguyen, a second-year student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science 👨‍💻. 
+### I'm Huy Nguyen, a third-year undergraduate student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science 👨‍💻. 
 
 ### [🔗 Check out my portfolio website here!](https://huynguyen04.github.io/)
 -------
@@ -25,7 +25,7 @@
 - 🎒 I am majoring in Computer Science with a minor in Applied Mathematics.
 - 🔭 Currently, I am involved in GPU and Computer Architecture research at the [Insight Computer Architecture Lab](https://insight-cal.github.io/).
 - 💻 I am also collaborating on projects with professors such as [GPUMD](https://github.com/huy310304/GPUMD-UVA) and [MATLAB GUI](https://github.com/huy310304/MATLAB-GUI-main) at the UVA School of Engineering. 
-- 🌱 I enjoy taking online courses about Computer Science topics on LinkedIn Learning and Coursera. 
+- 🌱 I enjoy taking online courses about Computer Science topics. 
 - 👨‍🏫 I love STEM teaching and tutoring, especially being a TA for Applied Math courses at UVA.
 -------
 
