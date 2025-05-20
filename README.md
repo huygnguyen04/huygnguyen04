@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/huynguyen04/">
+  <a href="https://www.linkedin.com/in/huygnguyen04/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "mailto:ngh810pth@gmail.com">
+  <a href = "mailto:huygnguyen04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.facebook.com/HuyNguYen121104">
@@ -16,17 +16,18 @@
 
 ## Hi there 👋, 
 
-### I'm Huy Nguyen, a third-year undergraduate student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science 👨‍💻. 
+### I'm Huy Nguyen, a fourth-year undergraduate student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science with a focus in hardware architecture and acceleration 👨‍💻. 
 
-### [🔗 Check out my portfolio website here!](https://huynguyen04.github.io/)
+### [🔗 Check out my portfolio website here!](https://huygnguyen04.com/)
 -------
 
 ## 📝 Academics: 
 - 🎒 I am majoring in Computer Science with a minor in Applied Mathematics.
-- 🔭 Currently, I am involved in GPU and Computer Architecture research at the [Insight Computer Architecture Lab](https://insight-cal.github.io/).
-- 💻 I am also collaborating on projects with professors such as [GPUMD](https://github.com/huy310304/GPUMD-UVA) and [MATLAB GUI](https://github.com/huy310304/MATLAB-GUI-main) at the UVA School of Engineering. 
-- 🌱 I enjoy taking online courses about Computer Science topics. 
-- 👨‍🏫 I love STEM teaching and tutoring, especially being a TA for Applied Math courses at UVA.
+- 🔬 This summer I have joined [Prof. Kevin Skadron](https://www.cs.virginia.edu/~skadron/) LAVA Lab to research on innovating the [Rodinia Benchmark Suite](https://github.com/yuhc/gpu-rodinia).
+- 🔭 In my 2nd and 3rd year, I have been involved in GPU and Computer Architecture research at the [Insight Computer Architecture Lab](https://insight-cal.github.io/) under Prof. Adwait Jog and [GPUMD Research](https://github.com/huygnguyen04/GPUMD-UVA) under [Prof. Keivan Esfarjani](https://engineering.virginia.edu/faculty/keivan-esfarjani).
+- 💻 I am also collaborating on projects with professors such as [GPUMD](https://github.com/huygnguyen04/GPUMD-UVA) and [MATLAB GUI](https://github.com/huygnguyen04/MATLAB-GUI-main) at the UVA School of Engineering. 
+- 🌱 I enjoy taking online courses about CUDA Programming and NVIDIA/GPU tools. 
+- 👨‍🏫 I love STEM teaching and tutoring, especially being a TA for Computer Science and Applied Math courses at UVA.
 -------
 
 ## 😮 About Me: 
