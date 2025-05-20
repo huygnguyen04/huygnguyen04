@@ -16,16 +16,15 @@
 
 ## Hi there 👋, 
 
-### I'm Huy Nguyen, a fourth-year undergraduate student at the University of Virginia, my long-term goal is to pursue a Ph.D. in Computer Science with a focus in hardware architecture and acceleration 👨‍💻. 
+### I'm Huy Nguyen, a fourth-year Computer Science undergraduate at the University of Virginia with a minor in Applied Mathematics. My long-term goal is to pursue a Ph.D. in Computer Science, specializing in hardware architecture and acceleration.
 
 ### [🔗 Check out my portfolio website here!](https://huygnguyen04.com/)
 -------
 
-## 📝 Academics: 
+## 📝 Academics and Research: 
 - 🎒 I am majoring in Computer Science with a minor in Applied Mathematics.
 - 🔬 This summer I have joined [Prof. Kevin Skadron](https://www.cs.virginia.edu/~skadron/) LAVA Lab to research on innovating the [Rodinia Benchmark Suite](https://github.com/yuhc/gpu-rodinia).
-- 🔭 In my 2nd and 3rd year, I have been involved in GPU and Computer Architecture research at the [Insight Computer Architecture Lab](https://insight-cal.github.io/) under Prof. Adwait Jog and [GPUMD Research](https://github.com/huygnguyen04/GPUMD-UVA) under [Prof. Keivan Esfarjani](https://engineering.virginia.edu/faculty/keivan-esfarjani).
-- 💻 I am also collaborating on projects with professors such as [GPUMD](https://github.com/huygnguyen04/GPUMD-UVA) and [MATLAB GUI](https://github.com/huygnguyen04/MATLAB-GUI-main) at the UVA School of Engineering. 
+- 🔭 In my 2nd and 3rd year, I have been involved in [GPU and Computer Architecture research](https://github.com/huygnguyen04/PyTorch-CUDA-ML-Performance) at the [Insight Computer Architecture Lab](https://insight-cal.github.io/) under Prof. Adwait Jog and [GPUMD Research](https://github.com/huygnguyen04/GPUMD-UVA) under [Prof. Keivan Esfarjani](https://engineering.virginia.edu/faculty/keivan-esfarjani).
 - 🌱 I enjoy taking online courses about CUDA Programming and NVIDIA/GPU tools. 
 - 👨‍🏫 I love STEM teaching and tutoring, especially being a TA for Computer Science and Applied Math courses at UVA.
 -------
