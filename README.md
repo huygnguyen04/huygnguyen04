@@ -3,16 +3,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/huygnguyen04/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://huygnguyen04.com">
+    <img src="https://img.shields.io/badge/Personal Website-white?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Personal Website Badge"/>
   </a>
-  <a href = "mailto:huygnguyen04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.facebook.com/HuyNguYen121104">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+
 </div>
+
 
 ## Hi there 👋, 
 
@@ -28,7 +24,7 @@
 - In my 2nd and 3rd year, I have been involved in [GPU and Computer Architecture research](https://github.com/huygnguyen04/PyTorch-CUDA-ML-Performance) at the [Insight Computer Architecture Lab](https://insight-cal.github.io/)
 - I have previously work on [GPU-Accelerated Molecular Dynamics & NEP Modeling](https://pubs.aip.org/aip/jap/article/136/15/155109/3317315/Neuroevolution-machine-learning-potential-to-study) under [Prof. Keivan Esfarjani](https://engineering.virginia.edu/faculty/keivan-esfarjani).
 - I enjoy learning about GPU Programming and NVIDIA tools. 
-- I love teaching and tutoring, especially being a TA for Computer Science and Applied Math courses at UVA. I am currently TA for CS 3130 - Computer Systems and Organization 
+- I love teaching and tutoring, especially being a TA for Computer Science and Applied Math courses at UVA. I am currently TA for CS 2130 and 3130 - Computer Systems and Organization I and II. 
 -------
 
 ## 😮 About Me: 
